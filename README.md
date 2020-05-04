@@ -26,7 +26,7 @@ Use the provided CSV files to add restaurant details
 
 
 
-### Note
+## Note
 
 The implementation is done on react app.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
