@@ -1,3 +1,34 @@
+### Fullstack developer role UI Assessment (asked in PayPal)
+
+Use the provided CSV files to add restaurant details
+
+## Parameters
+`Restaurant ID, Restaurant Name, Cuisines, Average Cost for two, Currency, Has Table booking. Has Online delivery, Aggregate rating Rating color, Rating text, Votes`
+
+• Create a visually interactive responsive front end design listing all the restaurants.
+
+* Implement a feature to filter restaurants based on different kinds of cuisines.
+
+• Submit screenshots source code, and instructions,
+
+## Plus points
+
+• Implement functionality to search for restaurants by name
+
+• Implement multiple sort features based on Rating, Votes, and Average Cost for two.
+
+• Package your application in a Docker container, upload that container on the Docker hub, and provide the image URL in a text file.
+
+• Restaurants CSV: http://hck.re/vOHgoy (if not available in this link,I am attached it in /src/data directory)
+
+• deal Stack Frontend: AngularJS, React, Vue etc...
+
+
+
+
+### Note
+
+The implementation is done on react app.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
