@@ -1,0 +1,6 @@
+.Cardcontainer {
+    display:flex;
+    height:300px;
+    flex-wrap: wrap;
+    padding:5%;
+}

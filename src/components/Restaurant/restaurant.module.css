@@ -1,0 +1,27 @@
+.Select {
+    height: 50px;
+    margin-top: 45px;
+}
+.Select select {
+    box-sizing: border-box;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    height:32px;
+    background-color: white;
+}
+
+.Input {
+    width: 30%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    margin:2%;
+    padding: 12px 20px 12px ;
+}
+
+.Topbar {
+    display: flex;
+    justify-content: space-evenly;
+}
